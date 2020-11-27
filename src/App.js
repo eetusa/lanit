@@ -6,7 +6,7 @@ function App() {
       <header>
         <h2>On sale</h2>
       <ul>
-          <li>The escapists 2		4,99</li>
+          <li>The escapists 2		4,99 (4player)</li>
           <li>Human fall flat 	5,99</li>
           <li>Vermintide 2 		6,99e</li>
           <li>Barotrauma 		12,49e</li>
